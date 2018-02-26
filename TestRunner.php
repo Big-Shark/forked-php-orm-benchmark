@@ -11,6 +11,8 @@ passthru('php maghead/TestRunner.php');
 echo $separator;
 passthru('php lessql/TestRunner.php');
 echo $separator;
+passthru('php atlas_21/TestRunner.php');
+echo $separator;
 passthru('php yii1_m/TestRunner.php');
 echo $separator;
 passthru('php yii2_m/TestRunner.php');

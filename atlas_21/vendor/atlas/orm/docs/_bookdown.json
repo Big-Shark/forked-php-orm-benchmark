@@ -1,0 +1,15 @@
+{
+    "title": "Atlas.Orm 2.x",
+    "content": [
+        "getting-started.md",
+        "relationships.md",
+        "reading.md",
+        "records.md",
+        "record-sets.md",
+        "transactions.md",
+        "behavior.md",
+        "events.md",
+        "direct.md",
+        "domain.md"
+    ]
+}
